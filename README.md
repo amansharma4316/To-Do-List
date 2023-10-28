@@ -28,12 +28,3 @@ You can check out the live demo of the Todo List web app [here](https://abdellat
 - JavaScript: To handle the interactive functionality of the app.
 - Local Storage: To save todos for persistent data across browser sessions.
 
-## Getting Started
-
-To run the Todo List web app on your local machine, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/abdellatif-laghjaj/todo-list.git
-```
